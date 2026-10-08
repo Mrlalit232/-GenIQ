@@ -31,7 +31,7 @@ function App() {
   const [report, setReport] = useState("");
   const [generatingReport, setGeneratingReport] = useState(false);
 
-  const API = "http://127.0.0.1:8000";
+  const API = "https://geniq-backend.onrender.com";
 
   // =========================
   // NORMAL AI CHAT
